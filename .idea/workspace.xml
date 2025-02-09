@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aba49bd6-b14b-4082-bef8-ae348e5020d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/database/mongodb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/auth-routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/subscription-routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/user-routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.development.local" beforeDir="false" afterPath="$PROJECT_DIR$/.env.development.local" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -55,7 +61,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -90,7 +96,14 @@
       <workItem from="1739068211577" duration="904000" />
       <workItem from="1739069133130" duration="1185000" />
       <workItem from="1739070337567" duration="35000" />
-      <workItem from="1739070482617" duration="791000" />
+      <workItem from="1739070482617" duration="845000" />
+      <workItem from="1739071386800" duration="204000" />
+      <workItem from="1739085238006" duration="307000" />
+      <workItem from="1739085556072" duration="2722000" />
+      <workItem from="1739112297503" duration="424000" />
+      <workItem from="1739112736304" duration="387000" />
+      <workItem from="1739113273489" duration="2046000" />
+      <workItem from="1739115425111" duration="1515000" />
     </task>
     <servers />
   </component>
